@@ -1,6 +1,5 @@
 
 {
-  "name": "your-package-name",
   "type": "module",
   "scripts": {
     "lint": "./node_modules/.bin/eslint",
